@@ -1,7 +1,7 @@
 
 var colorscale = d3.scale.category10();
 
-//Legend titles
+//Legend titlez
 var LegendOptions = ['Smartphone','Tablet'];
 
 ini();
